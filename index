@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Jewelry Token</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000; /* Optional: Background color */
+            color: gold; /* Gold color for text */
+            text-align: center; /* Center-align text */
+            margin-top: 50px; /* Add some top margin */
+        }
+    </style>
+</head>
+<body>
+    <h1>De Diamond Dime : Digital Jewelry Token</h1>
+    <p>Max Supply : 1,000,000,000 tokens</p>
+    <p>Listing Price : 1 USD</p>
+    <p>Signed by De Dr. Dime</p>
+</body>
+</html>
